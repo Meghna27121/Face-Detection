@@ -13,9 +13,6 @@ This is a simple showcase project, that detects faces using the Vision-API and r
 
 ## Machine-Learning model
 
-
-To create your own machine-learning model, you can read our blog post ["How we created our Face-Recognition model"](https://blog.novatec-gmbh.de/created-face-recognition-model/)
-
 The short version is:
 
 * We trained a model in the AWS using Nvidia DIGITS
